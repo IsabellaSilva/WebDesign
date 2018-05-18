@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Seleção Brasileira</title>
+<link rel="stylesheet" href="css/sobre.css">
+</head>
+
+<body>
+
+	<img src="img/iconeCBF.png">
+
+	<h1>A Seleção Brasileira</h1>
+    <a href="#historia">História</a>
+    <a href="#museu"> Museu</a>
+    <a href="#tour"> O Tour</a>
+    
+	<p>
+        
+        	<h2 id="historia">História</h2>
+        
+	<p>
+    
+        No cenário seguinte, um audiovisual nos leva a conhecer os primórdios da Seleção Brasileira de Futebol, desde sua fundação, em 1914, até o primeiro título mundial, em 1958. O ambiente foi muito bem produzido e nos faz sentir como se estivéssemos vivendo o momento narrado. 
+        
+    <br><br>Nesse audiovisual, podemos acompanhar os primeiros títulos da Seleção, como, por exemplo, a Copa Roca de 1914, um amistoso entre a           Seleção Brasileira e a Argentina, que deu o primeiro titulo a nível internacional ao Brasil. Um fato interessante é que a Seleção             Brasileira, naquela época, era formada por um misto dos times cariocas e paulistas.
+    
+    </p>
+   
+        <p>
+    
+	<figure id="historia1">
+		<img class="img2" id="historia1" src="img/historia.jpg">
+	</figure>
+    
+    </p>
+        
+        <p>
+	<figure id="historia2">
+		<img class="img1" id="historia2" src="img/historia2.jpg">
+	</figure>
+        
+    </div>
+    A <strong>Seleção Brasileira de Futebol</strong> é o time nacional do Brasil de futebol masculino, gerido pela Confederação Brasileira de Futebol (CBF), que representa o país nas competições de futebol organizadas pela CONMEBOL e pela FIFA. Formada em 1914 e considerada um dos maiores símbolos do país, é chamada de "seleção verde-amarela", "seleção canarinho" ou " seleção amarelinha". 
+    
+    <p>    É uma das seleçoes mais bem-sucedida da história do futebol mundial, sendo a recordista em conquistas em Copas do Mundo, com cinco títulos invictos (1958, 1962, 1970, 1994, 2002). A campanha da conquista do tricampeonato em 1970 foi irretocável, com vitória em todos os 6 jogos disputados nas eliminatórias, e também com vitória em todos os 6 jogos disputados na Copa. Esta foi a única vez que uma equipe sagrou-se campeã mundial vencendo todos os jogos da eliminatória e da própria Copa do Mundo.
+	</p>
+
+	<p>
+		O site Oficial da Seleção Brasileira se encontra em <a
+			href="https://selecao.cbf.com.br/?q=Site Oficial"> Site Oficial</a>
+	</p>
+    
+    <h2 id="museu">O Museu da Confederação Brasileira de Futebol</h2>
+
+	<figure id="museuFrente">
+		<img src="img/museuFrente.jpg">
+		<figcaption>O Museu da Confederação Brasileira de Futebol</figcaption>
+	</figure>
+
+	<p>
+        
+        O <strong>Museu da CBF</strong>, também conhecido por <strong>CBF Experience</strong>, está localizado no térreo da nova sede da entidade, na <strong>Barra da Tijuca</strong>, na cidade do <strong>Rio de Janeiro</strong>. Aberto ao público em 1º de agosto de 2014, possuí uma área de mais de 1.000 metros que prometem levar o visitante a uma viagem aos 100 anos da história da <strong>Seleção Brasileira de Futebol</strong>.
+    <p>
+        Esse conteúdo é muito bem complementado por audiovisuais e excelentes projeções, permitindo ao visitante uma experiência diferenciada e uma maior interação com o espaço.
+    </p>
+        O museu reúne conteúdo sobre a <strong>CBF</strong>, tais como: todos os jogos disputados pela <strong>Seleção Brasileira</strong>, homenagens à sua torcida, fotos, uniformes e mais de 200 troféus, além de toda a trajetória da seleção desde sua criação em 1914 até os dias de hoje.
+    <p>
+        Construído para suprir a necessidade de não haver um museu oficial da <strong>CBF</strong>, foi projetado pela própria entidade, em parceria com o <strong>MediaPro Group</strong> (empresa catalã que participou do projeto de outros grandes museus, como os do <strong>Milan, Barcelona e Real Madrid</strong>).
+
+        
+	</p>
+    <p>
+    
+    
+	<figure id="entradaMudeu">
+		<img id="entradaMudeu" src="img/entradaMudeu.jpg">
+		<figcaption>Entrada do Museu</figcaption>
+	</figure>
+    
+    </p>
+    
+    <h2 id="tour">O Tour</h2>
+
+	<p>
+    
+        Após a compra do ingresso e a entrada no museu o visitante começa a conhecer as origens da <strong>Seleção Brasileira</strong> através de uma tela interativa, onde podemos visualizar os momentos de destaque da instituição, tanto em âmbito nacional, como mundial.
+        
+    </p>
+    
+    <p>
+    
+        <figure id="Tour">
+		  <img id="Tour" src="img/tour.jpg">
+		  <figcaption><strong>Destaque</strong></figcaption>
+        </figure>
+    
+    </p>
+    
+         
+    <p>
+   
+    
+    <strong>Paixão:</strong> Em seguida, entramos no ambiente denominado Paixão, onde o visitante acompanha a projeção em uma superfície inspirada na camisa da Seleção Brasileira, mostrando o que a 'amarelinha" representa para sua torcida. Além disso, podemos perceber a evolução do uniforme nacional e a paixão dos brasileiros.
+    
+    </p>
+    
+        <p>
+    
+        <figure id="Paixao">
+		  <img id="Paixao" src="img/Paixao.jpg">
+		  <figcaption><strong>Ambiente Paixão</strong></figcaption>
+        </figure>
+    
+    </p>
+    
+    <p> 
+        Na próxima sala contamos com uma mesa interativa que reúne mais de 1.000 jogos, os gols mais importantes e as suas vitórias da Seleção Brasileira. Podemos visualizar as escalações de cada torneio, os artilheiros, além de fotos e vídeos. 
+
+    </p>
+      <figure id="Camisas">
+		  <img id="Camisas" src="img/camisas.jpg">
+		  <figcaption><strong>Camisas</strong></figcaption>
+        </figure>
+    
+    <p>
+        Na sala seguinte, conhecida como A Copa do Mundo é Nossa, o visitante assiste a um audiovisual de 360º, onde são exibidas imagens das 5 conquistas mundiais, além da cereja do bolo: as réplicas dos 5 troféus mundiais conquistados (1958, 1962, 1970, 1994 e 2002).
+    </p>
+    
+       <figure id="trofeis">
+		  <img id="trofeis" src="img/trofeis.jpg">
+            <img id="trofeis2" src="img/trofeis2.jpg">
+
+        </figure>
+    
+    <p>
+    
+        No mesmo ambiente são disponibilizados jogos interativos, como quiz, quebra cabeças e jogos da memória e permite ao visitante conhecer detalhes sobre o futebol brasileiro.
+    
+    </p>
+        
+       <figure id="bola">
+		  <img id="bola" src="img/bola.jpg">
+            <img id="trofeis2" src="img/bolaOuro.jpg">
+
+        </figure>
+    
+    <p>
+    
+    No Foto-Corner o visitante tem a possibilidade de tirar uma foto dentro de algumas cenas da Seleção Brasileira, podendo levar essa fotografia como recordação para casa, ao custo de R$25,00 por fotografia impressa.
+
+      <br><br>  Para finalizar a visitação podemos fazer parte do museu com uma foto tirada e enviada a um mosaico formado por diversas fotografias dos visitantes que passaram pela atração.
+
+        <br><br>Na saída, uma loja oficial da Seleção Brasileira nos espera, com diversos uniformes e acessórios disponíveis para compra. Além disso, há também uma cafeteria. Ambas abertas nos mesmos horários do museu.
+
+       <br><br> Preço
+
+       <br><br> Geral: R$22,00.
+        Meia-entrada: R$12,00 (estudantes e idosos).
+Gratuidades: Crianças menores de 7 anos, professores da rede pública e pessoas com necessidades especiais (com direito a um acompanhante).
+Grupos (20-30) pessoas: R$10,00 por pessoa.
+Escolas: R$3,00 por pessoa (entrada gratuita para o professor).
+
+<br><br>Para grupos e escolas, as visitas podem ser realizadas de segunda a sexta-feira, exceto feriados, das 9h às 17h. Deverão reservar seus ingressos através do telefone: (21) 3572-1963 (de segunda a sexta-feira, das 9h às 17h) e/ou pelo e-mail: museucbf@cbf.com.br.
+
+<br><br>O pagamento e a retirada dos ingressos serão realizados nas bilheterias do museu, no dia da visita.
+
+<br><br>Formas de pagamento: Dinheiro ou cartão de crédito/débito.
+
+<br><br>Horário de funcionamento
+
+<br><br>Aberto todos os dias, das 9h às 17h (exceto nos dias 25/12 e 01/01).
+Última entrada às 16h30min.
+    
+    </p>
+    
+<div id="rodape">
+		<img class="rodape" src="img/iconeCBF.png"> CBF
+	</div>
+</body>
+</html>
